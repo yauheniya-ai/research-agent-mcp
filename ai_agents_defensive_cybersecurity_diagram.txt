@@ -1,0 +1,108 @@
++----------------------------------------------+
+|                                              |
+|   AI AGENTS IN DEFENSIVE CYBERSECURITY       |
+|                                              |
++----------------------------------------------+
+          |
+          |
+          v
++----------------------------------------------+
+|                                              |
+|            MONITORING AGENTS                 |
+|                                              |
+| +------------------+  +------------------+   |
+| | CyberSentinel    |  | RL-based Network |   |
+| | - SSH log        |  | Defense Agents   |   |
+| | - Phishing       |  | - Multi-objective|   |
+| | - ML anomaly     |  | - Reinforcement  |   |
+| |   detection      |  |   learning       |   |
+| +------------------+  +------------------+   |
+|                                              |
++----------------------------------------------+
+          |
+          |
+          v
++----------------------------------------------+
+|                                              |
+|         THREAT INTELLIGENCE AGENTS           |
+|                                              |
+| +------------------+  +------------------+   |
+| | Agentic AI       |  | Frontier AI      |   |
+| | - Proactive      |  | - Advanced       |   |
+| |   intelligence   |  |   reasoning      |   |
+| | - Continuous     |  | - Predictive     |   |
+| |   monitoring     |  |   analytics      |   |
+| +------------------+  +------------------+   |
+|                                              |
++----------------------------------------------+
+          |
+          |
+          v
++----------------------------------------------+
+|                                              |
+|          RESPONSE & MITIGATION AGENTS        |
+|                                              |
+| +------------------+  +------------------+   |
+| | Automated        |  | AI Defenders     |   |
+| | Incident         |  | - Adaptive       |   |
+| | Response         |  |   strategies     |   |
+| | - Real-time      |  | - Counter        |   |
+| |   remediation    |  |   measures       |   |
+| +------------------+  +------------------+   |
+|                                              |
++----------------------------------------------+
+          |
+          |
+          v
++----------------------------------------------+
+|                                              |
+|             SIMULATION AGENTS                |
+|                                              |
+| +------------------+  +------------------+   |
+| | MalGEN           |  | Decoy            |   |
+| | - Simulates      |  | Generation       |   |
+| |   adversarial    |  | - Distraction    |   |
+| |   behavior       |  |   strategies     |   |
+| | - Testing        |  | - Defense        |   |
+| |   defenses       |  |   evaluation     |   |
+| +------------------+  +------------------+   |
+|                                              |
++----------------------------------------------+
+          |
+          |
+          v
++----------------------------------------------+
+|                                              |
+|        MULTI-AGENT SECURITY SYSTEMS         |
+|                                              |
+| +------------------+  +------------------+   |
+| | Coordinated      |  | Open-ended       |   |
+| | Defense          |  | Learning Agents  |   |
+| | - Multiple       |  | - Broad          |   |
+| |   agent          |  |   capability     |   |
+| |   collaboration  |  | - Generalization |   |
+| +------------------+  +------------------+   |
+|                                              |
++----------------------------------------------+
+          |
+          |
+          v
++----------------------------------------------+
+|                                              |
+|              ETHICAL GOVERNANCE              |
+|                                              |
+| - Fairness                                   |
+| - Transparency                               |
+| - Accountability                             |
+| - Privacy protection                         |
+|                                              |
++----------------------------------------------+
+
+Key Research Papers:
+1. CyberSentinel: An Emergent Threat Detection System for AI Security
+2. Transforming Cyber Defense: Harnessing Agentic and Frontier AI
+3. Training RL Agents for Multi-Objective Network Defense Tasks
+4. MalGEN: A Generative Agent Framework for Modeling Malicious Software
+5. Open Challenges in Multi-Agent Security
+6. Defending Against Intelligent Attackers at Large Scales
+7. Towards Causal Models for Adversary Distractions

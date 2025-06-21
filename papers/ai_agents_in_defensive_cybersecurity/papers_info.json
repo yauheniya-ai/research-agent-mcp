@@ -1,0 +1,53 @@
+{
+  "2504.05408v2": {
+    "title": "Frontier AI's Impact on the Cybersecurity Landscape",
+    "authors": [
+      "Wenbo Guo",
+      "Yujin Potter",
+      "Tianneng Shi",
+      "Zhun Wang",
+      "Andy Zhang",
+      "Dawn Song"
+    ],
+    "summary": "As frontier AI advances rapidly, understanding its impact on cybersecurity\nand inherent risks is essential to ensuring safe AI evolution (e.g., guiding\nrisk mitigation and informing policymakers). While some studies review AI\napplications in cybersecurity, none of them comprehensively discuss AI's future\nimpacts or provide concrete recommendations for navigating its safe and secure\nusage. This paper presents an in-depth analysis of frontier AI's impact on\ncybersecurity and establishes a systematic framework for risk assessment and\nmitigation. To this end, we first define and categorize the marginal risks of\nfrontier AI in cybersecurity and then systemically analyze the current and\nfuture impacts of frontier AI in cybersecurity, qualitatively and\nquantitatively. We also discuss why frontier AI likely benefits attackers more\nthan defenders in the short term from equivalence classes, asymmetry, and\neconomic impact. Next, we explore frontier AI's impact on future software\nsystem development, including enabling complex hybrid systems while introducing\nnew risks. Based on our findings, we provide security recommendations,\nincluding constructing fine-grained benchmarks for risk assessment, designing\nAI agents for defenses, building security mechanisms and provable defenses for\nhybrid systems, enhancing pre-deployment security testing and transparency, and\nstrengthening defenses for users. Finally, we present long-term research\nquestions essential for understanding AI's future impacts and unleashing its\ndefensive capabilities.",
+    "pdf_url": "http://arxiv.org/pdf/2504.05408v2",
+    "published": "2025-04-07"
+  },
+  "2502.14966v1": {
+    "title": "CyberSentinel: An Emergent Threat Detection System for AI Security",
+    "authors": [
+      "Krti Tallam"
+    ],
+    "summary": "The rapid advancement of artificial intelligence (AI) has significantly\nexpanded the attack surface for AI-driven cybersecurity threats, necessitating\nadaptive defense strategies. This paper introduces CyberSentinel, a unified,\nsingle-agent system for emergent threat detection, designed to identify and\nmitigate novel security risks in real time. CyberSentinel integrates: (1)\nBrute-force attack detection through SSH log analysis, (2) Phishing threat\nassessment using domain blacklists and heuristic URL scoring, and (3) Emergent\nthreat detection via machine learning-based anomaly detection. By continuously\nadapting to evolving adversarial tactics, CyberSentinel strengthens proactive\ncybersecurity defense, addressing critical vulnerabilities in AI security.",
+    "pdf_url": "http://arxiv.org/pdf/2502.14966v1",
+    "published": "2025-02-20"
+  },
+  "2406.07561v1": {
+    "title": "Artificial Intelligence as the New Hacker: Developing Agents for Offensive Security",
+    "authors": [
+      "Leroy Jacob Valencia"
+    ],
+    "summary": "In the vast domain of cybersecurity, the transition from reactive defense to\noffensive has become critical in protecting digital infrastructures. This paper\nexplores the integration of Artificial Intelligence (AI) into offensive\ncybersecurity, particularly through the development of an autonomous AI agent,\nReaperAI, designed to simulate and execute cyberattacks. Leveraging the\ncapabilities of Large Language Models (LLMs) such as GPT-4, ReaperAI\ndemonstrates the potential to identify, exploit, and analyze security\nvulnerabilities autonomously.\n  This research outlines the core methodologies that can be utilized to\nincrease consistency and performance, including task-driven penetration testing\nframeworks, AI-driven command generation, and advanced prompting techniques.\nThe AI agent operates within a structured environment using Python, enhanced by\nRetrieval Augmented Generation (RAG) for contextual understanding and memory\nretention. ReaperAI was tested on platforms including, Hack The Box, where it\nsuccessfully exploited known vulnerabilities, demonstrating its potential\npower.\n  However, the deployment of AI in offensive security presents significant\nethical and operational challenges. The agent's development process revealed\ncomplexities in command execution, error handling, and maintaining ethical\nconstraints, highlighting areas for future enhancement.\n  This study contributes to the discussion on AI's role in cybersecurity by\nshowcasing how AI can augment offensive security strategies. It also proposes\nfuture research directions, including the refinement of AI interactions with\ncybersecurity tools, enhancement of learning mechanisms, and the discussion of\nethical guidelines for AI in offensive roles. The findings advocate for a\nunique approach to AI implementation in cybersecurity, emphasizing innovation.",
+    "pdf_url": "http://arxiv.org/pdf/2406.07561v1",
+    "published": "2024-05-09"
+  },
+  "2506.07586v1": {
+    "title": "MalGEN: A Generative Agent Framework for Modeling Malicious Software in Cybersecurity",
+    "authors": [
+      "Bikash Saha",
+      "Sandeep Kumar Shukla"
+    ],
+    "summary": "The dual use nature of Large Language Models (LLMs) presents a growing\nchallenge in cybersecurity. While LLM enhances automation and reasoning for\ndefenders, they also introduce new risks, particularly their potential to be\nmisused for generating evasive, AI crafted malware. Despite this emerging\nthreat, the research community currently lacks controlled and extensible tools\nthat can simulate such behavior for testing and defense preparation. We present\nMalGEN, a multi agent framework that simulates coordinated adversarial behavior\nto generate diverse, activity driven malware samples. The agents work\ncollaboratively to emulate attacker workflows, including payload planning,\ncapability selection, and evasion strategies, within a controlled environment\nbuilt for ethical and defensive research. Using MalGEN, we synthesized ten\nnovel malware samples and evaluated them against leading antivirus and\nbehavioral detection engines. Several samples exhibited stealthy and evasive\ncharacteristics that bypassed current defenses, validating MalGEN's ability to\nmodel sophisticated and new threats. By transforming the threat of LLM misuse\ninto an opportunity for proactive defense, MalGEN offers a valuable framework\nfor evaluating and strengthening cybersecurity systems. The framework addresses\ndata scarcity, enables rigorous testing, and supports the development of\nresilient and future ready detection strategies.",
+    "pdf_url": "http://arxiv.org/pdf/2506.07586v1",
+    "published": "2025-06-09"
+  },
+  "2503.00164v1": {
+    "title": "Transforming Cyber Defense: Harnessing Agentic and Frontier AI for Proactive, Ethical Threat Intelligence",
+    "authors": [
+      "Krti Tallam"
+    ],
+    "summary": "In an era marked by unprecedented digital complexity, the cybersecurity\nlandscape is evolving at a breakneck pace, challenging traditional defense\nparadigms. Advanced Persistent Threats (APTs) reveal inherent vulnerabilities\nin conventional security measures and underscore the urgent need for\ncontinuous, adaptive, and proactive strategies that seamlessly integrate human\ninsight with cutting edge AI technologies. This manuscript explores how the\nconvergence of agentic AI and Frontier AI is transforming cybersecurity by\nreimagining frameworks such as the cyber kill chain, enhancing threat\nintelligence processes, and embedding robust ethical governance within\nautomated response systems. Drawing on real-world data and forward looking\nperspectives, we examine the roles of real time monitoring, automated incident\nresponse, and perpetual learning in forging a resilient, dynamic defense\necosystem. Our vision is to harmonize technological innovation with unwavering\nethical oversight, ensuring that future AI driven security solutions uphold\ncore human values of fairness, transparency, and accountability while\neffectively countering emerging cyber threats.",
+    "pdf_url": "http://arxiv.org/pdf/2503.00164v1",
+    "published": "2025-02-28"
+  }
+}
