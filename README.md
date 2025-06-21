@@ -2,7 +2,9 @@
 
 A Python-based research agent that uses the Model Context Protocol (MCP) to search, store, and analyze academic papers from arXiv. The agent provides both a command-line chatbot interface and Jupyter notebook integration for interactive research workflows.
 
-<img src="https://github.com/yauheniya-ai/Assets/blob/b98555dcb3938f531798dc5f318702a3e6fc03d2/Gifs/Robot.AI.gif?raw=true" width="100">
+<div style="text-align: center;">
+  <img src="https://github.com/yauheniya-ai/Assets/blob/b98555dcb3938f531798dc5f318702a3e6fc03d2/Gifs/Robot.AI.gif?raw=true" width="100" alt="AI Research Agent">
+</div>
 
 ## Features
 
@@ -109,10 +111,11 @@ Each `papers_info.json` contains structured metadata for all papers in that topi
 Query: `create a visual diagram of the available ai agents in defensive cybersecurity based on the retrieved papers and save it to a text file`  
 Output: `ai_agents_defensive_cybersecurity_diagram.txt`
 
-<img src="./images/OutputExample1.png" alt="Output Example" width="500">
-<img src="./images/OutputExample2.png" alt="Output Example" width="500">
-<img src="./images/OutputExample3.png" alt="Output Example" width="500">
-
+<div style="text-align:center; font-size:0;">
+   <img src="./images/OutputExample1.png" alt="Output Example" width="500">
+   <img src="./images/OutputExample2.png" alt="Output Example" width="500">
+   <img src="./images/OutputExample3.png" alt="Output Example" width="500">
+</div>
 
 ## Requirements
 
