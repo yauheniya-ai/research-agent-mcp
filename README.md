@@ -13,7 +13,7 @@ A Python-based research agent that uses the Model Context Protocol (MCP) to sear
 - **Interactive Chat**: Command-line chatbot interface with Claude integration
 - **Resource Management**: Browse and access stored papers by topic
 - **Prompt Templates**: Pre-built prompts for research analysis
-- **MCP Integration**: Uses Model Context Protocol for extensible tool integration
+- **MCP Integration**: Uses MCP for extensible tool integration
 
 ## Project Structure
 
@@ -119,7 +119,7 @@ Output: `ai_agents_defensive_cybersecurity_diagram.txt`
 
 - Python 3.10+
 - Anthropic API key
-- Internet connection for arXiv access
+- Internet connection
 
 ## License
 
